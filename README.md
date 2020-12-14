@@ -1,6 +1,8 @@
 # jetris
 Falling Blocks Game
 
-cd jetris
-
-cargo run --release
+## Runs the "jetris" game
+```
+$ cd jetris
+$ cargo run --release
+```
