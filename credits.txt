@@ -1,0 +1,10 @@
+
+Music:
+	URL: http://freemusicarchive.org/music/BoxCat_Games/Nameless_the_Hackers_RPG_Soundtrack/BoxCat_Games_-_Nameless-_the_Hackers_RPG_Soundtrack_-_10_Epic_Song
+	Comments: http://freemusicarchive.org/
+	Curator: ccCommunity
+	Copyright: Creative Commons Attribution: http://creativecommons.org/licenses/by/3.0/
+
+Sound:
+	shiru8bit
+	https://opengameart.org/content/nes-8-bit-sound-effects
